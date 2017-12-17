@@ -1,3 +1,3 @@
 # JNVSWebsite
 
-Download and install VS Code from here: https://go.microsoft.com/fwlink/?Linkid=852157
+Under Development: The website of JNV Sitamarhi by Alumni Association
